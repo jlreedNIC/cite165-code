@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # list of positional parameters
 
 echo 'All parameters in a string = ' $*

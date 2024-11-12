@@ -1,7 +1,6 @@
 #!/bin/bash
 # Script to append to path variable
 
-
 echo "What directory do you want to add to the PATH variable?"
 read newpath
 echo "You entered $newpath"
