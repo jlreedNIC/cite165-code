@@ -1,2 +1,2 @@
 # cite165-code
-code files for cite 165
+Code files for CITE165 taught at NIC in Fall of 2024
