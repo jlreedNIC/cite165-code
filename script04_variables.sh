@@ -1,5 +1,6 @@
 #!/bin/bash
-# Demonstrating user variables
+# Demonstrating how to use variables in a script
+# Create variables, assign value to a variable, reference a variable
 
 # We can create variables when we assign a value
 variable=value      # when no spaces, we can declare it this way
