@@ -1,5 +1,6 @@
 #!/bin/bash
 # An example of a for loop
+# List the contents of the current directory and output what kind of file it is.
 
 for file in $(ls)
 do
